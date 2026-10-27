@@ -7,7 +7,7 @@
 </head>
 <body>
     <?php 
-        echo ("<h1>Hola mundo desde PHP con Abantic</h1>");
+        echo ("<h1>Hola mundo desde PHP</h1>");
     
     ?>
 </body>
